@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Docker",
+        "title_ch": "Docker",
+        "badge": "docker",
+        "list": [
+            "是一個用於開發、交付、執行應用程式的平台",
+            "用 Docker 可以輕鬆地管理程式",
+            "透過 Docker 提供的 API 快速交付、測試、部署程式碼",
+            "利用 Docker 讓開發環境和正式環境一模一樣"
+        ]
+    },
+    {
+        "title": "useMemo",
+        "title_ch": "useMemo",
+        "badge": "react",
+        "content": "用來記憶計算結果的 Hook，它會在依賴變量改變時重新計算值。使用 useMemo 返回的應該是一個值，而不是一個函數，所以當你在 JSX 中使用 errorMessage 時，不應該將它作為函數調用。\n\n返回的是一個記憶化的結果，而不是一個函數。"
+    },
+    {
+        "title": "useCallback",
+        "title_ch": "useCallback",
+        "badge": "react",
+        "content": "用來記憶函數的 Hook，返回的是一個函數。當依賴的變量改變時，它會返回一個新的函數。你應該調用這個返回的函數。"
+    },
+    {
+        "title": "Image",
+        "title_ch": "映像檔",
+        "badge": "docker",
+        "content": "指的是一個包含應用程式以及相關依賴庫的檔案，這個檔案會被放進一個容器 (Container) 中運作，也能說容器是有了映像檔而活了起來。"
+    },
+    {
+        "title": "Constructor",
+        "title_ch": "建構子",
+        "badge": "javascript",
+        "content": "是個隨著 class 一同建立並初始化物件的特殊方法。一個 class 只能有一個稱為 constructor 的特殊物件。"
+    }
+]

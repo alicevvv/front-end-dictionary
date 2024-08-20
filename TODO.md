@@ -1,0 +1,6 @@
+- 新增 search 功能
+- 新增 Item 展開動畫
+- Badge Style
+- Badge Search
+- 加入最愛功能
+- 製作後台系統

@@ -1,0 +1,1 @@
+export const SET_THEME_KEY = "FE_dic_theme"
